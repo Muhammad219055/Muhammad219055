@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Framer Motion and Animations for front-end.<br>🌱 I’m currently learning Express.js and Back-end.<br>⚡ Fun fact: The first computer programmer, Ada Lovelace, created an algorithm for Charles Babbage's early mechanical general-purpose computer, the Analytical Engine, in the mid-1800s. She is often celebrated as the pioneer of computer programming!
+🔭 I’m currently working on Framer Motion and Animations as well as Three.js .<br>🌱 I’m currently learning Express.js and Back-end.<br>⚡ Fun fact: The first computer programmer, Ada Lovelace, created an algorithm for Charles Babbage's early mechanical general-purpose computer, the Analytical Engine, in the mid-1800s. She is often celebrated as the pioneer of computer programming!
 
 
 ## 🌐 Socials:
